@@ -1,0 +1,18 @@
+{
+  "districts": [
+    {
+      "state": "MADHYA PRADESH",
+      "name": "Sample District",
+      "code": "D001",
+      "registered": 1000
+    }
+  ],
+  "blocks": [
+    {
+      "state": "MADHYA PRADESH",
+      "district": "Sample District",
+      "name": "Sample Block",
+      "code": "B001"
+    }
+  ]
+}
