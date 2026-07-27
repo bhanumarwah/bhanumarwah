@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhanumarwah
-- 👀 I’m interested in coding and learning to build real-world applications.
-- 🌱 I’m currently learning advanced SQL, MySQL Workbench.
-- 💞️ I’m looking to collaborate on projects related to build GUIs and Web apps.
+- 👀 Passionate about transforming raw data into meaningful insights through Data Engineering and Analytics.
+- 🌱 Currently exploring Azure Data Factory, Apache Airflow, Power Automate, and modern data engineering best practices.
+- 💞️ Open to collaborating on Data Engineering, Data Analytics, Power BI, SQL, Python, and cloud data projects.
 - 📫 How to reach me - at marwahbhanu@gmail.com
 
 <!---
